@@ -1,3 +1,20 @@
+/*
+There are total of 63 keywords which JavaSscript provides to the programmers.
+
+Types of naming conventions
+There are numerous variable naming conventions in the coding world, but among the most important are :
+
+a) Camel Case
+Example: let firstStudent
+b) Pascal Case
+Example: let FirstStudent
+c) Snake Case
+Example: let first_student
+d) Kebab Case
+Example: let first-student
+*/
+
+
 // var 
 var a = 5
 console.log(a)
@@ -67,3 +84,42 @@ console.log(obj.name)//yogaprasad
 // using object try to reassign it will throw an error
 obj = {}
 
+
+//datatypes
+/*
+Two types of datatypes 
+1.Primitive datatypes
+2.Non Primitive datatypes
+
+1.Primitive Datatypes
+Number 
+String 
+Null
+undefined
+boolean
+symbol
+BigInt
+*/
+//example:- for Number
+let marks = 45
+console.log(marks)
+
+// example:- for String
+let name1 = "yogaprasad"
+console.log(name1)
+
+// example:- for null
+let name2 = null
+console.log(name2)
+
+// example:- for boolean
+let booleant = true;
+let booleanf = false;
+
+// example:- for undefined
+let make;
+console.log(make)
+// example:- for BigInt
+let bigint = 123243546578697089786754653423425378697865534321234354657643224567
+console.log(bigint);
+// bigint range(-2^53 - 1) to (2^53 - 1) ^-power
