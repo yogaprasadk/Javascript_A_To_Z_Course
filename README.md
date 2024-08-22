@@ -8,3 +8,5 @@
 <h3>Lecture 3: Operators & Conditionals</h3>
 <a href="https://youtu.be/u3v2H5mwixY?si=FYtrbHl5TzVaJ56Q"><img src="https://github.com/user-attachments/assets/55642d93-9959-457f-a36b-f6b3d3adbd70"/></a>
 <br/>
+<h3>Lecture 4: Loops and Strings</h3>
+<a href="https://youtu.be/UXxwO_U_gXI?si=bRhD9faW7ljNV1wO"><img src="https://github.com/user-attachments/assets/d8d02c47-58c3-4191-83cf-e2d7db6017dd"/></a>
