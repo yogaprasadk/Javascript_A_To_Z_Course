@@ -49,3 +49,18 @@ for(const key in person){
           console.log(key + ": "+person[key])
 }
 
+// for of loop
+/* The  for of loop enhances code readability by focusing on the elements of the iterable*/
+
+let array = [12,3,5,23,423]
+for(let con of array){
+    console.log(con);
+}
+
+/*
+12
+3
+5
+23
+423
+*/
