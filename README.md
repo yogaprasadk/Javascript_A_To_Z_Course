@@ -10,3 +10,5 @@
 <br/>
 <h3>Lecture 4: Loops and Strings</h3>
 <a href="https://youtu.be/UXxwO_U_gXI?si=bRhD9faW7ljNV1wO"><img src="https://github.com/user-attachments/assets/d8d02c47-58c3-4191-83cf-e2d7db6017dd"/></a>
+<h3>Lecture 5: Functions and arrows</h3>
+<a href="https://youtu.be/nqC-UlGTssg?si=0WNyjKlA5RpD5gUJ"><img src="https://github.com/user-attachments/assets/1a3de475-516e-4b2a-a5c5-820244009764"/></a>
