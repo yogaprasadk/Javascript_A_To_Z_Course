@@ -1,5 +1,6 @@
 <h1>JavaScript Series</h1>
 <h3>Lecture 1: Introduction To Javascript</h3>
+
 <a href="https://youtu.be/1dFqthtouqU?si=TwxxhRW0EWE8OF4U"><img src="https://github.com/user-attachments/assets/97ff9a16-5774-40c6-bbd3-d9f60085af08"/></a>
 <br/>
 <h3>Lecture 2: variables & Datatypes</h3>
@@ -13,7 +14,7 @@
 <h3>Lecture 5: Functions and arrows</h3>
 <a href="https://youtu.be/nqC-UlGTssg?si=0WNyjKlA5RpD5gUJ"><img src="https://github.com/user-attachments/assets/1a3de475-516e-4b2a-a5c5-820244009764"/></a>
 <h3>Lecture 6: Arrays</h3>
-<a href="https://youtu.be/XK8loB2jYDE?si=jc-kov9wQzfHAnPM"><img src="https://github.com/user-attachments/assets/1f897248-d4d3-416f-98e5-4af680ee236f"/></a>
+<a href="https://youtu.be/XK8loB2jYDE?si=jc-kov9wQzfHAnPM"><img src="https://github.com/user-attachments/assets/1dd55692-e189-47a9-bc41-bac9b3052c9f"/></a>
 <h3>Lecture 7: Variable/Function Hoisting && Function Calls</h3>
 <a href="https://youtu.be/eK4gqHb7P7w?si=5O6wJP96-15KlTtw"><img src="https://github.com/user-attachments/assets/df912e0f-7bd1-48f3-979a-b67785153dab"/></a>
 <h3>Lecture 8: Temporal Dead zone</h3>
