@@ -14,6 +14,7 @@ Since we are mining into JavaScript, it's important to note that, JavaScript enc
 (e) For/of loop
 */
  //forEach Loop
+
  /* The forEach loop in JavaScript provides a concise and built-in way to iterate over the elements of an array without the need for explicit indexing. Unlike traditional for loops, which rely on index-based iteration, the forEach loop directly accesses each element of the array, making the code more readable and expressive.*/
  //syntax
  /* array.forEach(function() {
