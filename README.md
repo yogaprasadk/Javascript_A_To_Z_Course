@@ -19,3 +19,5 @@
 <a href="https://youtu.be/eK4gqHb7P7w?si=5O6wJP96-15KlTtw"><img src="https://github.com/user-attachments/assets/df912e0f-7bd1-48f3-979a-b67785153dab"/></a>
 <h3>Lecture 8: Temporal Dead zone</h3>
 <a href="https://youtu.be/7NA3hX3IfVg?si=EFWelsTDqwNXLmXZ"><img src="https://github.com/user-attachments/assets/cae095b0-55f7-44de-9c5a-70d9bbd9847e"/></a>
+<h3>Lecture 9: class and default parameters</h3>
+<a href="https://youtu.be/SslpdF_HlFc?si=B2VhuUQCcBw0RFax"><img src="https://github.com/user-attachments/assets/2e1e0bae-e24d-4bcf-a3d1-c026d57801f5"</a>
