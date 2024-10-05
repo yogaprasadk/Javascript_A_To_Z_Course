@@ -30,3 +30,6 @@
 
 <h3>Lecture 10: Object CLoning </h3>
 <a href="https://youtu.be/9KBadAcKVrU?si=Rft-YywSjZgZb1oK"><img src="https://github.com/user-attachments/assets/b4ee5e98-f0a3-49e1-84f6-ad8e4d5d1867"/></a>
+
+<h3>Lecture 11: Error Handling</h3>
+<a href="https://youtu.be/u2xLcx3sC_k?si=RCcWITHKGBnrvMzq"><img src="https://github.com/user-attachments/assets/1efd48a2-425e-405b-b012-c22af6b9ed91"/></a>
