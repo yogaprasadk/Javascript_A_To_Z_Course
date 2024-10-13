@@ -33,3 +33,6 @@
 
 <h3>Lecture 11: Error Handling</h3>
 <a href="https://youtu.be/u2xLcx3sC_k?si=RCcWITHKGBnrvMzq"><img src="https://github.com/user-attachments/assets/1efd48a2-425e-405b-b012-c22af6b9ed91"/></a>
+
+<h3>Lecture 12: JS DOM MANINPULATION - HTML5</h3>
+<a href="https://youtu.be/uoII7VSDF3k?si=XtBEawXKZlLSF5_r"><img src="https://github.com/user-attachments/assets/f80e210e-afaf-46df-a034-52d8f07f9093"/></a>
