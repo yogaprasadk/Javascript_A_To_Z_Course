@@ -28,7 +28,7 @@ document.querySelectorAll("p");
 
 // class
 document.querySelectorAll(".cspara");
-
+ 
 // id
 document.querySelectorAll("#fpara");
 
@@ -92,7 +92,7 @@ mydiv.innerAdjacentElement('beforebegin',createelement)
 // Helloworld
 
 */ 
-let mydiv = document.querySelector("#mydiv")
+let mydiv = document.querySelector('#mydiv')
 
 let newele =  document.createElement('span')
 newele.textContent = "Yoga Prasad"
@@ -107,4 +107,49 @@ first
 second 
 third
 
+*/
+
+mydiv.insertAdjacentElement('afterbegin',newele)
+
+/*
+
+output:
+hello jee 
+
+// it will be inside div container
+yoga prasad
+first
+second 
+third
+
+*/
+
+
+mydiv.insertAdjacentElement('beforeend',newele)
+
+// the element will be end inside the container 
+/*
+
+output:
+hello jee 
+
+first
+second 
+third
+yoga prasad
+*/
+
+
+mydiv.insertAdjacentElement('afterend',newele)
+/*
+
+output:
+hello jee 
+
+first
+second 
+third
+
+// it will be out of container will be at end
+yoga prasad
 */
