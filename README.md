@@ -49,3 +49,8 @@
 <!-- Lecture 12-->
 <h3>Lecture 12: JS DOM MANINPULATION - HTML5</h3>
 <a href="https://youtu.be/uoII7VSDF3k?si=XtBEawXKZlLSF5_r"><img src="https://github.com/user-attachments/assets/f80e210e-afaf-46df-a034-52d8f07f9093"/></a>
+
+<!-- Lecture 13 -->
+<h3>Lecture 13: JS DOM MANIPULATION - CSS </h3>
+<a href="https://youtu.be/5Udw0F6DIhA?si=m-b5kkUU3S3NFAW4"><img src="https://github.com/user-attachments/assets/12975dd4-520c-47f5-b078-466085d09972"/></a>
+
