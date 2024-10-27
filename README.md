@@ -54,3 +54,8 @@
 <h3>Lecture 13: JS DOM MANIPULATION - CSS </h3>
 <a href="https://youtu.be/5Udw0F6DIhA?si=m-b5kkUU3S3NFAW4"><img src="https://github.com/user-attachments/assets/12975dd4-520c-47f5-b078-466085d09972"/></a>
 
+<!-- Lecture 14 -->
+<h3>Lecture 14: Events and Listeners </h3>
+<a href="https://youtu.be/x2gl4KwUIV8?si=klQ_rUI_p865c16u"><img src="https://github.com/user-attachments/assets/62575ec3-e044-4843-9206-c1e228f90880"/></a>
+
+<
