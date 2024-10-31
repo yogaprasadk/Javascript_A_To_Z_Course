@@ -58,4 +58,12 @@
 <h3>Lecture 14: Events and Listeners </h3>
 <a href="https://youtu.be/x2gl4KwUIV8?si=klQ_rUI_p865c16u"><img src="https://github.com/user-attachments/assets/62575ec3-e044-4843-9206-c1e228f90880"/></a>
 
+<!-- lEcture 15 -->
+<h3>Lecture 15: Repaint and Reflow </h3>
+<a href="https://youtu.be/kqFauVbe-1M?si=LVhCcV-FYR30l2MS"><img src="https://github.com/user-attachments/assets/8225080c-66af-4ec6-949f-83f786403916"/></a>
+
+<!--  Lecture 16 -->
+<h3>Lecture 16: Event Loops</h3>
+<a href="https://youtu.be/FqaCRrxiS_A?si=RZ4MrAxW21gLHXQ6"><img src="https://github.com/user-attachments/assets/7f97beaa-f45b-4010-9b6e-9cac9a585c36"/></a>
+
 <
