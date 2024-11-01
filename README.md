@@ -1,5 +1,3 @@
-<h1>JavaScript Series</h1>
-
 <!-- Lecture 1-->
 <h3>Lecture 1: Introduction To Javascript</h3>
 <a href="https://youtu.be/1dFqthtouqU?si=TwxxhRW0EWE8OF4U"><img src="https://github.com/user-attachments/assets/97ff9a16-5774-40c6-bbd3-d9f60085af08"/></a>
@@ -19,8 +17,8 @@
 <a href="https://youtu.be/UXxwO_U_gXI?si=bRhD9faW7ljNV1wO"><img src="https://github.com/user-attachments/assets/d8d02c47-58c3-4191-83cf-e2d7db6017dd"/></a>
 
 <!-- Lecture 5-->
-<h3>Lecture 5: Functions and arrows</h3>
-<a href="https://youtu.be/nqC-UlGTssg?si=0WNyjKlA5RpD5gUJ"><img src="https://github.com/user-attachments/assets/1a3de475-516e-4b2a-a5c5-820244009764"/></a>
+<h3>Lecture 5: Plain and arrows Function</h3>
+<a href="https://youtu.be/nqC-UlGTssg?si=0WNyjKlA5RpD5gUJ"><img src="https://github.com/user-attachments/assets/97d63ced-54ec-4ba8-b15d-527b1f51d4e1"/></a>
 
 <!-- Lecture 6-->
 <h3>Lecture 6: Arrays & Objects</h3>
