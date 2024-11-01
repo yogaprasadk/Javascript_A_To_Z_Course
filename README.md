@@ -66,4 +66,6 @@
 <h3>Lecture 16: Event Loops</h3>
 <a href="https://youtu.be/FqaCRrxiS_A?si=RZ4MrAxW21gLHXQ6"><img src="https://github.com/user-attachments/assets/7f97beaa-f45b-4010-9b6e-9cac9a585c36"/></a>
 
-<
+<!-- Lecture 17 -->
+<h3>Lecture 17: promises</h3>
+<a href="https://www.youtube.com/watch?v=Bgf2bXr6psI"><img src="https://github.com/user-attachments/assets/0c6544cd-2f6e-4103-ad19-f64cea76b258"/></a>
