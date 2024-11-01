@@ -1,4 +1,4 @@
-<h1>JavaScript Series</h1>
+![image](https://github.com/user-attachments/assets/af966bd9-17d7-4bf8-b59c-80eb1ca9f3fa)<h1>JavaScript Series</h1>
 
 <!-- Lecture 1-->
 <h3>Lecture 1: Introduction To Javascript</h3>
@@ -69,3 +69,7 @@
 <!-- Lecture 17 -->
 <h3>Lecture 17: promises</h3>
 <a href="https://www.youtube.com/watch?v=Bgf2bXr6psI"><img src="https://github.com/user-attachments/assets/0c6544cd-2f6e-4103-ad19-f64cea76b258"/></a>
+
+<!-- Lecture 18 -->
+<h3>Lecture 18: Async - await and Fetch API</h3>
+<a href="https://youtu.be/EL3PKEHggrE?si=prR_w9YK3eictm2U"><img src="https://github.com/user-attachments/assets/2949c29a-223d-4e87-b9a4-76137268c376"/></a>
