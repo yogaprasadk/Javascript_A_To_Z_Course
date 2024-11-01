@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/af966bd9-17d7-4bf8-b59c-80eb1ca9f3fa)<h1>JavaScript Series</h1>
+<h1>JavaScript Series</h1>
 
 <!-- Lecture 1-->
 <h3>Lecture 1: Introduction To Javascript</h3>
@@ -23,16 +23,16 @@
 <a href="https://youtu.be/nqC-UlGTssg?si=0WNyjKlA5RpD5gUJ"><img src="https://github.com/user-attachments/assets/1a3de475-516e-4b2a-a5c5-820244009764"/></a>
 
 <!-- Lecture 6-->
-<h3>Lecture 6: Arrays</h3>
-<a href="https://youtu.be/XK8loB2jYDE?si=jc-kov9wQzfHAnPM"><img src="https://github.com/user-attachments/assets/1dd55692-e189-47a9-bc41-bac9b3052c9f"/></a>
+<h3>Lecture 6: Arrays & Objects</h3>
+<a href="https://youtu.be/XK8loB2jYDE?si=jc-kov9wQzfHAnPM"><img src="https://github.com/user-attachments/assets/ed327de1-c374-443e-9f21-a5ed2cbf2f82"/></a>
 
 <!-- Lecture 7-->
 <h3>Lecture 7: Variable/Function Hoisting && Function Calls</h3>
-<a href="https://youtu.be/eK4gqHb7P7w?si=5O6wJP96-15KlTtw"><img src="https://github.com/user-attachments/assets/df912e0f-7bd1-48f3-979a-b67785153dab"/></a>
+<a href="https://youtu.be/eK4gqHb7P7w?si=5O6wJP96-15KlTtw"><img src="https://github.com/user-attachments/assets/9a76a987-0b17-4889-b191-0e0256690af1"/></a>
 
 <!-- Lecture 8-->
 <h3>Lecture 8: Temporal Dead zone</h3>
-<a href="https://youtu.be/7NA3hX3IfVg?si=EFWelsTDqwNXLmXZ"><img src="https://github.com/user-attachments/assets/cae095b0-55f7-44de-9c5a-70d9bbd9847e"/></a>
+<a href="https://youtu.be/7NA3hX3IfVg?si=EFWelsTDqwNXLmXZ"><img src="https://github.com/user-attachments/assets/f44cd5c2-ab5a-4067-86a6-d33fbec5c397"/></a>
 
 <!-- Lecture 9-->
 <h3>Lecture 9: class and default parameters</h3>
