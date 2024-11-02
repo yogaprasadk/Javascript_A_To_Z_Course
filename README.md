@@ -1,5 +1,3 @@
-<h1>JavaScript Series</h1>
-
 <!-- Lecture 1-->
 <h3>Lecture 1: Introduction To Javascript</h3>
 <a href="https://youtu.be/1dFqthtouqU?si=TwxxhRW0EWE8OF4U"><img src="https://github.com/user-attachments/assets/97ff9a16-5774-40c6-bbd3-d9f60085af08"/></a>
@@ -19,20 +17,20 @@
 <a href="https://youtu.be/UXxwO_U_gXI?si=bRhD9faW7ljNV1wO"><img src="https://github.com/user-attachments/assets/d8d02c47-58c3-4191-83cf-e2d7db6017dd"/></a>
 
 <!-- Lecture 5-->
-<h3>Lecture 5: Functions and arrows</h3>
-<a href="https://youtu.be/nqC-UlGTssg?si=0WNyjKlA5RpD5gUJ"><img src="https://github.com/user-attachments/assets/1a3de475-516e-4b2a-a5c5-820244009764"/></a>
+<h3>Lecture 5: Plain and arrows Function</h3>
+<a href="https://youtu.be/nqC-UlGTssg?si=0WNyjKlA5RpD5gUJ"><img src="https://github.com/user-attachments/assets/97d63ced-54ec-4ba8-b15d-527b1f51d4e1"/></a>
 
 <!-- Lecture 6-->
-<h3>Lecture 6: Arrays</h3>
-<a href="https://youtu.be/XK8loB2jYDE?si=jc-kov9wQzfHAnPM"><img src="https://github.com/user-attachments/assets/1dd55692-e189-47a9-bc41-bac9b3052c9f"/></a>
+<h3>Lecture 6: Arrays & Objects</h3>
+<a href="https://youtu.be/XK8loB2jYDE?si=jc-kov9wQzfHAnPM"><img src="https://github.com/user-attachments/assets/ed327de1-c374-443e-9f21-a5ed2cbf2f82"/></a>
 
 <!-- Lecture 7-->
 <h3>Lecture 7: Variable/Function Hoisting && Function Calls</h3>
-<a href="https://youtu.be/eK4gqHb7P7w?si=5O6wJP96-15KlTtw"><img src="https://github.com/user-attachments/assets/df912e0f-7bd1-48f3-979a-b67785153dab"/></a>
+<a href="https://youtu.be/eK4gqHb7P7w?si=5O6wJP96-15KlTtw"><img src="https://github.com/user-attachments/assets/9a76a987-0b17-4889-b191-0e0256690af1"/></a>
 
 <!-- Lecture 8-->
 <h3>Lecture 8: Temporal Dead zone</h3>
-<a href="https://youtu.be/7NA3hX3IfVg?si=EFWelsTDqwNXLmXZ"><img src="https://github.com/user-attachments/assets/cae095b0-55f7-44de-9c5a-70d9bbd9847e"/></a>
+<a href="https://youtu.be/7NA3hX3IfVg?si=EFWelsTDqwNXLmXZ"><img src="https://github.com/user-attachments/assets/f44cd5c2-ab5a-4067-86a6-d33fbec5c397"/></a>
 
 <!-- Lecture 9-->
 <h3>Lecture 9: class and default parameters</h3>
@@ -66,4 +64,10 @@
 <h3>Lecture 16: Event Loops</h3>
 <a href="https://youtu.be/FqaCRrxiS_A?si=RZ4MrAxW21gLHXQ6"><img src="https://github.com/user-attachments/assets/7f97beaa-f45b-4010-9b6e-9cac9a585c36"/></a>
 
-<
+<!-- Lecture 17 -->
+<h3>Lecture 17: promises</h3>
+<a href="https://www.youtube.com/watch?v=Bgf2bXr6psI"><img src="https://github.com/user-attachments/assets/0c6544cd-2f6e-4103-ad19-f64cea76b258"/></a>
+
+<!-- Lecture 18 -->
+<h3>Lecture 18: Async - await and Fetch API</h3>
+<a href="https://youtu.be/EL3PKEHggrE?si=prR_w9YK3eictm2U"><img src="https://github.com/user-attachments/assets/2949c29a-223d-4e87-b9a4-76137268c376"/></a>
