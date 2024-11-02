@@ -71,3 +71,7 @@
 <!-- Lecture 18 -->
 <h3>Lecture 18: Async - await and Fetch API</h3>
 <a href="https://youtu.be/EL3PKEHggrE?si=prR_w9YK3eictm2U"><img src="https://github.com/user-attachments/assets/2949c29a-223d-4e87-b9a4-76137268c376"/></a>
+
+<!-- Lecure 19 -->
+<h3> Lecture 19: Closures</h3>
+<a href="https://youtu.be/ThJOl1gqIjs?si=etImemCu1Dd09eDj"><img src="https://github.com/user-attachments/assets/7d90e1f6-8335-457b-b64b-fbfad4afece0)"/></a>
